@@ -11,6 +11,7 @@ appear. And by clicking any button, you will resume to previous state and contin
 
 
 HOW TO CHECK OUT AND BUILD:
+
     My Github username is: xyaoinum
     And the repository I created for this homework is: 481HW2
     I made this repository public. So you need to access xyaoinum/481HW2
